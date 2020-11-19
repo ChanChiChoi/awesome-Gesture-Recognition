@@ -1,4 +1,5 @@
 # awesome-gesture-recognition
+Thanks：Blueprintf 
 
 collecting related resources of gesture recognition here.
 
